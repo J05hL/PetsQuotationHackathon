@@ -27,6 +27,6 @@ add.
 Biggest is probably Promise.all - learning that there is a way to await all and return once all resolved was a big one and I imagine quite useful for future projects. I came across a bug when a function that mapped through an array calling an async fetch function wasn't resolving so I spent a decent amount of time looking into that.
 
 Secondly and only slightly behind the above is how important tests are.
-This was a 4 hour hackathon in a team of four originally and in an effort to deliver a product quickly tests were skipped but after a bug due to incorrect capitalisation costing us at least 30 minutes and maybe even an hour TDD may have avoided a lot of that wasted time even though they would have been an upfront cost.
+This was a 4 hour hackathon in a team of four originally and in an effort to deliver a product quickly tests were skipped but after a bug due to incorrect capitalisation costing us at least 30 minutes and maybe even an hour TDD may have avoided a lot of that wasted time even though there would have been an upfront cost.
 
-I may revisit this at somepoint but if not I learnt a lot and it was time well spent!
+I may revisit this at some point but if not I learnt a lot and it was time well spent!
