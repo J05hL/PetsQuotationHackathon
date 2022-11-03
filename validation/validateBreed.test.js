@@ -14,7 +14,7 @@ describe('check that validateBreed validates breeds correctly',
     const mockFetch = ()=> jest.fn(() => response);
     test(`non valid breed`,
       async () => {
-        expect(await validateBreed(`dog`, `gsdgdh`, mockFetch)).toBe(false)
+        expect(await validateBreed(`dog`, `gsdgdh`, mockFetch())).toBe(false)
       }
     )
     // console.log(`2nd test`, Date())
