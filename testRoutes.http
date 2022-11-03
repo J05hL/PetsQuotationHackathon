@@ -3,16 +3,18 @@ Content-Type: application/json
 
 [
   {
-    "pet": "Dog",
+    "pet": "dog",
     "years":  2,
     "breed" : "spaniel",
-    "area" : "B32"
+    "area" : "B63",
+    "postcode" : "B633DP"
   },
   {
-    "pet": "Dog",
+    "pet": "dog",
     "years":  2,
-    "breed" : "poodle",
-    "area" : "SE23"
+    "breed" : "spaniel",
+    "area" : "B63",
+    "postcode" : "B633DP"
   }
 ]
 
@@ -23,16 +25,18 @@ Content-Type: application/json
 
 [
   {
-    "pet": "Dog",
+    "pet": "dog",
     "years":  10,
     "breed" : "spaniel",
-    "area" : "B32"
+    "area" : "B32",
+    "postcode" : "B633DP"
   },
   {
-    "pet": "Dog",
+    "pet": "dog",
     "years":  23,
-    "breed" : "alsatian",
-    "area" : "SE23"
+    "breed" : "shih tzu",
+    "area" : "SE23",
+    "postcode" : "B633DP"
   }
 ]
 
